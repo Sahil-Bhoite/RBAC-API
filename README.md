@@ -1,5 +1,8 @@
 # JWT Authentication and RBAC API Project
 
+https://github.com/user-attachments/assets/371393a6-0894-4ead-be29-de2f5c9d0375
+
+
 ## Overview
 This project implements a RESTful API with JWT Authentication and Role-Based Access Control (RBAC) using FastAPI and MongoDB. The system manages users with different roles and provides role-based access to various endpoints.
 
